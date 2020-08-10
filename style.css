@@ -1,0 +1,24 @@
+td{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.calc{
+    padding-top: 100;
+    size: 150%;
+}
+
+.table{
+    text-align: center;
+    margin: 0 auto;
+}
+.btn{
+    margin: auto;
+    width: 100%;
+}
+
+.input{
+    text-align: right;
+    
+}
+
